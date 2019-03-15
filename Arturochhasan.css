@@ -1,0 +1,151 @@
+#Content{
+   position:relative;
+   margin:0 auto; 
+   display: block;
+   max-width:1380px;
+   padding: 10px;
+   background: #DDDDDD;
+
+}
+
+h1{
+   color: rgb(141, 0, 42);
+}
+h1{
+   font-size: 1.3cm;  
+}
+h2{
+   color: rgb(141, 0, 42); 
+   font-size: 1.4em; 
+}
+
+h3{
+   font-size: 1.4em; 
+}
+
+p{
+   text-align: justify;
+   font-size: 1.2em;
+}
+
+#starta{
+    position:relative;
+    float:center;
+    padding:0; margin:0;
+    margin-right: 26px;
+    width:65%;
+ }
+ 
+#omoss{
+    position:relative;
+    float:right;
+    padding:0; margin:0;
+    margin-right: 26px;
+    width:30%;
+ 
+ }
+ 
+ #vigor{
+    position:relative;
+    float:left;
+    padding:0; margin:0;
+    margin-right: 26px;
+    width:30%;
+ }
+
+ #header{
+   position:relative;
+   margin:0; padding: 0;
+   clear:both; 
+   background: #DDDDDD;
+   border-top: 1px solid #919191;
+   border-bottom: 1px solid #919191;
+}
+
+
+#menu{
+   position:relative;
+   padding: 0; margin:0 auto; 
+   max-width:1180px;
+   clear:both;
+   height:32px;
+   background: #DDDDDD;
+
+}
+.topnav {
+   background-color: #333;
+   overflow: hidden;
+ }
+ 
+ .topnav a {
+   padding: 1.5em 2em;
+	letter-spacing: 1px;
+   float: left;
+   border-radius: 12px;
+   font-size: 0.90em;
+	font-weight: 600;
+
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+ }
+
+ .topnav a:hover {
+   background-color: rgb(184, 17, 17);
+   color: white;
+   }
+ 
+   .topnav a.active {
+   background-color: rgb(184, 17, 17);
+   color: white;
+ }
+
+ #organisationsnummer{
+   color: black;
+   position:relative;
+   padding:0;
+   padding-right: 50px;
+   float: right;
+   }
+   
+   #adress {
+   color: black;
+   position:relative;
+   padding:0;
+   padding-left: 50px;
+   float: left;
+   }
+
+   #footer{
+      position: relative;
+      display: block;
+      overflow: auto;
+      margin-top:16px;
+      left:0;   
+      bottom:0;
+      width: 100%;
+      height: 130px;
+      border-top: 1px solid #333;
+      background: rgb(156, 156, 141);
+   }
+   #footnote{
+      position:relative;
+      margin:0 auto;
+      padding:0;
+      max-width:1300px;
+      text-align: center;
+   }
+   
+   .fa {
+      padding-top: 60px;
+      width: 80px;
+      text-align: center;
+      text-decoration: none;
+      color: rgb(247, 243, 17);
+   }
+   
+   .fa:hover {
+      opacity: 0.8;
+      color:rgb(189, 40, 3);
